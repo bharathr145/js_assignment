@@ -1,1 +1,1 @@
-this is tehe master file.
+this is the master file.
